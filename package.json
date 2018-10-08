@@ -1,0 +1,19 @@
+{
+  "name": "express-react-views boiler-plate",
+  "version": "1.0.0",
+  "description": "an express boilerplate using express-react-views.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simarpreet singh | hello@simarpreetcreates.com",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "express": "^4.15.3",
+    "express-react-views": "^0.10.5",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
